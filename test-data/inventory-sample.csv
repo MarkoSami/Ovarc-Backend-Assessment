@@ -1,0 +1,181 @@
+store_name,store_address,book_name,pages,author_name,price,logo
+Barnes & Noble,123 Main St New York NY,The Great Gatsby,180,F. Scott Fitzgerald,15.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,To Kill a Mockingbird,281,Harper Lee,14.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,1984,328,George Orwell,13.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,Pride and Prejudice,279,Jane Austen,12.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,The Catcher in the Rye,234,J.D. Salinger,14.49,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,Animal Farm,112,George Orwell,10.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,Brave New World,288,Aldous Huxley,13.49,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,The Lord of the Rings,1178,J.R.R. Tolkien,29.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,The Hobbit,310,J.R.R. Tolkien,16.99,https://example.com/logos/bn.png
+Barnes & Noble,123 Main St New York NY,Harry Potter and the Sorcerer's Stone,309,J.K. Rowling,19.99,https://example.com/logos/bn.png
+Powell's Books,1005 W Burnside St Portland OR,The Great Gatsby,180,F. Scott Fitzgerald,14.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,Moby Dick,635,Herman Melville,18.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,War and Peace,1225,Leo Tolstoy,24.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,Crime and Punishment,671,Fyodor Dostoevsky,16.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,The Brothers Karamazov,796,Fyodor Dostoevsky,19.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,Anna Karenina,864,Leo Tolstoy,17.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,Don Quixote,1072,Miguel de Cervantes,22.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,One Hundred Years of Solitude,417,Gabriel Garcia Marquez,16.49,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,The Odyssey,541,Homer,14.99,https://example.com/logos/powells.png
+Powell's Books,1005 W Burnside St Portland OR,The Iliad,683,Homer,15.99,https://example.com/logos/powells.png
+Strand Bookstore,828 Broadway New York NY,Frankenstein,280,Mary Shelley,11.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,Dracula,418,Bram Stoker,13.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,Jane Eyre,500,Charlotte Bronte,14.49,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,Wuthering Heights,416,Emily Bronte,13.49,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,Great Expectations,544,Charles Dickens,15.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,Oliver Twist,608,Charles Dickens,14.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,A Tale of Two Cities,489,Charles Dickens,13.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,David Copperfield,882,Charles Dickens,18.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,The Picture of Dorian Gray,254,Oscar Wilde,12.99,https://example.com/logos/strand.png
+Strand Bookstore,828 Broadway New York NY,The Importance of Being Earnest,76,Oscar Wilde,9.99,https://example.com/logos/strand.png
+City Lights Books,261 Columbus Ave San Francisco CA,On the Road,320,Jack Kerouac,15.99,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Howl and Other Poems,96,Allen Ginsberg,12.99,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Naked Lunch,289,William S. Burroughs,16.99,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,The Dharma Bums,244,Jack Kerouac,14.99,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Big Sur,241,Jack Kerouac,14.49,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Junky,166,William S. Burroughs,13.99,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Desolation Angels,409,Jack Kerouac,16.49,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Kaddish and Other Poems,100,Allen Ginsberg,11.99,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,The Subterraneans,111,Jack Kerouac,12.49,https://example.com/logos/citylights.png
+City Lights Books,261 Columbus Ave San Francisco CA,Visions of Cody,480,Jack Kerouac,17.99,https://example.com/logos/citylights.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,The Hunger Games,374,Suzanne Collins,17.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,Catching Fire,391,Suzanne Collins,17.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,Mockingjay,390,Suzanne Collins,17.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,Divergent,487,Veronica Roth,18.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,Insurgent,525,Veronica Roth,18.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,Allegiant,526,Veronica Roth,18.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,The Maze Runner,375,James Dashner,16.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,The Scorch Trials,361,James Dashner,16.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,The Death Cure,325,James Dashner,16.99,https://example.com/logos/bam.png
+Books-A-Million,4760 US Highway 280 Birmingham AL,Ender's Game,324,Orson Scott Card,15.99,https://example.com/logos/bam.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,The Republic,416,Plato,14.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Meditations,256,Marcus Aurelius,12.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Nicomachean Ethics,329,Aristotle,15.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Beyond Good and Evil,240,Friedrich Nietzsche,13.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Thus Spoke Zarathustra,352,Friedrich Nietzsche,14.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Being and Time,589,Martin Heidegger,24.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Critique of Pure Reason,856,Immanuel Kant,29.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,The Social Contract,168,Jean-Jacques Rousseau,11.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,Leviathan,736,Thomas Hobbes,19.99,https://example.com/logos/harvard.png
+Harvard Book Store,1256 Massachusetts Ave Cambridge MA,A Theory of Justice,607,John Rawls,22.99,https://example.com/logos/harvard.png
+Tattered Cover,2526 E Colfax Ave Denver CO,The Shining,447,Stephen King,16.99,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,It,1138,Stephen King,19.99,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,The Stand,1153,Stephen King,21.99,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,Misery,310,Stephen King,15.99,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,Pet Sematary,374,Stephen King,15.99,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,Carrie,253,Stephen King,14.99,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,Salem's Lot,439,Stephen King,16.49,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,The Dead Zone,402,Stephen King,15.49,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,Cujo,319,Stephen King,14.49,https://example.com/logos/tattered.png
+Tattered Cover,2526 E Colfax Ave Denver CO,Christine,526,Stephen King,16.99,https://example.com/logos/tattered.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Slaughterhouse-Five,275,Kurt Vonnegut,14.99,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Cat's Cradle,304,Kurt Vonnegut,14.49,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Breakfast of Champions,303,Kurt Vonnegut,14.99,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,The Sirens of Titan,319,Kurt Vonnegut,15.49,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Mother Night,282,Kurt Vonnegut,13.99,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,God Bless You Mr. Rosewater,218,Kurt Vonnegut,13.49,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Galapagos,324,Kurt Vonnegut,14.99,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Bluebeard,300,Kurt Vonnegut,14.49,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Hocus Pocus,322,Kurt Vonnegut,14.99,https://example.com/logos/prairie.png
+Prairie Lights,15 S Dubuque St Iowa City IA,Timequake,219,Kurt Vonnegut,13.99,https://example.com/logos/prairie.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,The Sun Also Rises,251,Ernest Hemingway,14.99,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,A Farewell to Arms,332,Ernest Hemingway,15.49,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,For Whom the Bell Tolls,471,Ernest Hemingway,16.99,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,The Old Man and the Sea,127,Ernest Hemingway,12.99,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,A Moveable Feast,240,Ernest Hemingway,14.49,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,The Sound and the Fury,326,William Faulkner,15.99,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,As I Lay Dying,267,William Faulkner,14.99,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,Light in August,480,William Faulkner,16.49,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,Absalom Absalom!,313,William Faulkner,15.49,https://example.com/logos/vromans.png
+Vroman's Bookstore,695 E Colorado Blvd Pasadena CA,Sanctuary,317,William Faulkner,14.99,https://example.com/logos/vromans.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,The Handmaid's Tale,311,Margaret Atwood,15.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,Oryx and Crake,376,Margaret Atwood,16.49,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,The Blind Assassin,521,Margaret Atwood,17.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,Alias Grace,468,Margaret Atwood,16.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,The Testaments,419,Margaret Atwood,17.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,Cat's Eye,421,Margaret Atwood,15.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,The Robber Bride,466,Margaret Atwood,16.49,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,Surfacing,224,Margaret Atwood,13.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,Lady Oracle,345,Margaret Atwood,14.99,https://example.com/logos/politics.png
+Politics and Prose,5015 Connecticut Ave NW Washington DC,The Edible Woman,281,Margaret Atwood,13.99,https://example.com/logos/politics.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,Dune,688,Frank Herbert,18.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,Dune Messiah,331,Frank Herbert,15.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,Children of Dune,444,Frank Herbert,16.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,God Emperor of Dune,454,Frank Herbert,17.49,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,Foundation,244,Isaac Asimov,14.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,Foundation and Empire,247,Isaac Asimov,14.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,Second Foundation,240,Isaac Asimov,14.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,I Robot,224,Isaac Asimov,13.99,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,The Caves of Steel,206,Isaac Asimov,13.49,https://example.com/logos/elliott.png
+Elliott Bay Book Company,1521 10th Ave Seattle WA,The Naked Sun,187,Isaac Asimov,12.99,https://example.com/logos/elliott.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Neuromancer,271,William Gibson,15.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Count Zero,246,William Gibson,14.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Mona Lisa Overdrive,260,William Gibson,14.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Snow Crash,440,Neal Stephenson,17.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Cryptonomicon,1152,Neal Stephenson,24.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,The Diamond Age,499,Neal Stephenson,18.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Anathem,937,Neal Stephenson,22.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Reamde,1044,Neal Stephenson,23.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Seveneves,880,Neal Stephenson,21.99,https://example.com/logos/keplers.png
+Kepler's Books,1010 El Camino Real Menlo Park CA,Pattern Recognition,356,William Gibson,16.49,https://example.com/logos/keplers.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,Where the Crawdads Sing,368,Delia Owens,17.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,The Great Alone,438,Kristin Hannah,18.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,The Nightingale,440,Kristin Hannah,17.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,Little Fires Everywhere,338,Celeste Ng,16.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,Everything I Never Told You,292,Celeste Ng,15.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,Educated,334,Tara Westover,17.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,Becoming,448,Michelle Obama,19.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,The Silent Patient,336,Alex Michaelides,17.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,The Midnight Library,304,Matt Haig,16.99,https://example.com/logos/parnassus.png
+Parnassus Books,3900 Hillsboro Pike Nashville TN,Anxious People,341,Fredrik Backman,17.49,https://example.com/logos/parnassus.png
+The Strand,828 Broadway New York NY,Gone Girl,415,Gillian Flynn,16.99,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,Sharp Objects,254,Gillian Flynn,15.99,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,Dark Places,349,Gillian Flynn,16.49,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,The Girl on the Train,336,Paula Hawkins,16.99,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,Into the Water,386,Paula Hawkins,17.49,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,Big Little Lies,460,Liane Moriarty,17.99,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,Nine Perfect Strangers,453,Liane Moriarty,18.49,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,The Husband's Secret,393,Liane Moriarty,16.99,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,Truly Madly Guilty,415,Liane Moriarty,17.49,https://example.com/logos/strand2.png
+The Strand,828 Broadway New York NY,What Alice Forgot,426,Liane Moriarty,16.99,https://example.com/logos/strand2.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,The Kite Runner,371,Khaled Hosseini,16.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,A Thousand Splendid Suns,372,Khaled Hosseini,16.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,And the Mountains Echoed,404,Khaled Hosseini,17.49,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,The Alchemist,208,Paulo Coelho,16.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,Eleven Minutes,302,Paulo Coelho,15.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,Veronika Decides to Die,210,Paulo Coelho,14.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,By the River Piedra I Sat Down and Wept,184,Paulo Coelho,13.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,The Zahir,336,Paulo Coelho,15.99,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,Brida,249,Paulo Coelho,14.49,https://example.com/logos/bookpassage.png
+Book Passage,51 Tamal Vista Blvd Corte Madera CA,The Witch of Portobello,305,Paulo Coelho,15.49,https://example.com/logos/bookpassage.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,Norwegian Wood,296,Haruki Murakami,16.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,Kafka on the Shore,467,Haruki Murakami,18.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,1Q84,1157,Haruki Murakami,24.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,The Wind-Up Bird Chronicle,607,Haruki Murakami,19.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,Hard-Boiled Wonderland and the End of the World,400,Haruki Murakami,17.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,Colorless Tsukuru Tazaki,298,Haruki Murakami,16.49,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,After Dark,191,Haruki Murakami,14.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,Sputnik Sweetheart,210,Haruki Murakami,15.49,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,South of the Border West of the Sun,191,Haruki Murakami,14.99,https://example.com/logos/bookshopcz.png
+Bookshop Santa Cruz,1520 Pacific Ave Santa Cruz CA,A Wild Sheep Chase,299,Haruki Murakami,16.49,https://example.com/logos/bookshopcz.png
+Square Books,160 Courthouse Square Oxford MS,The Road,287,Cormac McCarthy,15.99,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,No Country for Old Men,309,Cormac McCarthy,15.99,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,Blood Meridian,337,Cormac McCarthy,17.99,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,All the Pretty Horses,302,Cormac McCarthy,16.49,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,The Crossing,426,Cormac McCarthy,17.49,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,Cities of the Plain,291,Cormac McCarthy,15.99,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,Suttree,471,Cormac McCarthy,18.49,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,Child of God,197,Cormac McCarthy,14.49,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,Outer Dark,242,Cormac McCarthy,15.49,https://example.com/logos/square.png
+Square Books,160 Courthouse Square Oxford MS,The Orchard Keeper,246,Cormac McCarthy,15.99,https://example.com/logos/square.png
+Brookline Booksmith,279 Harvard St Brookline MA,The Name of the Wind,662,Patrick Rothfuss,18.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,The Wise Man's Fear,994,Patrick Rothfuss,21.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,A Game of Thrones,694,George R.R. Martin,19.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,A Clash of Kings,761,George R.R. Martin,19.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,A Storm of Swords,973,George R.R. Martin,21.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,A Feast for Crows,753,George R.R. Martin,19.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,A Dance with Dragons,1056,George R.R. Martin,23.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,The Way of Kings,1007,Brandon Sanderson,22.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,Words of Radiance,1087,Brandon Sanderson,24.99,https://example.com/logos/brookline.png
+Brookline Booksmith,279 Harvard St Brookline MA,Oathbringer,1248,Brandon Sanderson,26.99,https://example.com/logos/brookline.png
