@@ -33,9 +33,9 @@ COPY --from=builder /app/dist ./dist
 COPY migrations ./migrations
 COPY config ./config
 
-# Copy entrypoint script
+# Copy entrypoint script and fix line endings (handles Windows CRLF -> Unix LF)
 COPY docker-entrypoint.sh ./
-RUN chmod +x docker-entrypoint.sh
+RUN sed -i 's/\r$//' docker-entrypoint.sh && chmod +x docker-entrypoint.sh
 
 # Expose port
 EXPOSE 3000
