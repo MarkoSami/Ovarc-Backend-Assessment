@@ -1,0 +1,189 @@
+{
+	"info": {
+		"_postman_id": "466b5c52-49c8-4e6f-ba34-0c75b9beffd9",
+		"name": "Apis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25631917"
+	},
+	"item": [
+		{
+			"name": "Health",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{BASE_URL}}/health",
+					"host": [
+						"{{BASE_URL}}"
+					],
+					"path": [
+						"health"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Upload Inventory",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Marko/Desktop/inventory-sample.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{BASE_API_URL}}/inventory/upload",
+					"host": [
+						"{{BASE_API_URL}}"
+					],
+					"path": [
+						"inventory",
+						"upload"
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "New Request",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "file",
+									"type": "file",
+									"src": "/C:/Users/Marko/Desktop/inventory-sample.csv"
+								}
+							]
+						},
+						"url": {
+							"raw": "{{BASE_API_URL}}/inventory/upload",
+							"host": [
+								"{{BASE_API_URL}}"
+							],
+							"path": [
+								"inventory",
+								"upload"
+							]
+						}
+					},
+					"status": "OK",
+					"code": 200,
+					"_postman_previewlanguage": "",
+					"header": [
+						{
+							"key": "X-Powered-By",
+							"value": "Express"
+						},
+						{
+							"key": "Access-Control-Allow-Origin",
+							"value": "*"
+						},
+						{
+							"key": "Content-Type",
+							"value": "application/json; charset=utf-8"
+						},
+						{
+							"key": "Content-Length",
+							"value": "403"
+						},
+						{
+							"key": "ETag",
+							"value": "W/\"193-vlRoUoBmtgtAGo4aXXGSmpLAJlQ\""
+						},
+						{
+							"key": "Date",
+							"value": "Thu, 25 Dec 2025 18:28:31 GMT"
+						},
+						{
+							"key": "Connection",
+							"value": "keep-alive"
+						},
+						{
+							"key": "Keep-Alive",
+							"value": "timeout=5"
+						}
+					],
+					"cookie": [],
+					"body": "{\n    \"success\": true,\n    \"message\": \"CSV file processed successfully.\",\n    \"data\": {\n        \"success\": true,\n        \"totalRows\": 180,\n        \"processedRows\": 180,\n        \"errors\": [],\n        \"created\": {\n            \"stores\": 18,\n            \"authors\": 63,\n            \"books\": 179,\n            \"storeBooks\": 180\n        },\n        \"updated\": {\n            \"storeBooks\": 0\n        }\n    },\n    \"meta\": {\n        \"totalRows\": 180,\n        \"processedRows\": 180,\n        \"created\": {\n            \"stores\": 18,\n            \"authors\": 63,\n            \"books\": 179,\n            \"storeBooks\": 180\n        },\n        \"updated\": {\n            \"storeBooks\": 0\n        }\n    },\n    \"timestamp\": \"2025-12-25T18:28:31.292Z\"\n}"
+				}
+			]
+		},
+		{
+			"name": "Download Store Report",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{BASE_API_URL}}/store/:id/download-report",
+					"host": [
+						"{{BASE_API_URL}}"
+					],
+					"path": [
+						"store",
+						":id",
+						"download-report"
+					],
+					"variable": [
+						{
+							"key": "id",
+							"value": "6ba5114f-8d1a-4a52-b5b6-17d8d9c123f9"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Get All Stores",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "file",
+							"type": "file",
+							"src": "/C:/Users/Marko/Desktop/inventory-sample.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "{{BASE_API_URL}}/stores",
+					"host": [
+						"{{BASE_API_URL}}"
+					],
+					"path": [
+						"stores"
+					]
+				}
+			},
+			"response": []
+		}
+	],
+	"variable": [
+		{
+			"key": "BASE_API_URL",
+			"value": "",
+			"type": "default"
+		},
+		{
+			"key": "BASE_URL",
+			"value": "",
+			"type": "default"
+		}
+	]
+}
