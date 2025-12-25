@@ -1,7 +1,7 @@
 import { Model, DataTypes, Optional } from 'sequelize';
 import { sequelize } from '../db';
 
-interface StoreBookAttributes {
+export interface StoreBookAttributes {
     id: string;
     storeId: string;
     bookId: string;

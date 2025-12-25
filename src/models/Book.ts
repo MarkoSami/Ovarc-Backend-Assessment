@@ -2,7 +2,7 @@ import { Model, DataTypes, Optional, Association } from 'sequelize';
 import { sequelize } from '../db';
 import Author from './Author';
 
-interface BookAttributes {
+export interface BookAttributes {
     id: string;
     name: string;
     pages: number;

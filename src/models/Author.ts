@@ -1,7 +1,7 @@
 import { Model, DataTypes, Optional } from 'sequelize';
 import { sequelize } from '../db';
 
-interface AuthorAttributes {
+export interface AuthorAttributes {
     id: string;
     name: string;
     createdAt?: Date;
